@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 
 ![yourusername's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=rmaram33&theme=default)
-![Trophies](https://github-profile-trophy.vercel.app/?username=rmaram33)
