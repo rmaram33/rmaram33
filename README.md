@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rmaram33)
-
-![yourusername's Activity Graph](https://activity-graph.herokuapp.com/graph?username=rmaram33&theme=xcode)
+![yourusername's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=rmaram33&theme=default)
 
 
