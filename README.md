@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Commits](https://img.shields.io/github/commit-activity/m/rmaram33/MATLAB_Programming_Techniques)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmaram33&show_icons=true)
+
 
