@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=rmaram33)
 
 
