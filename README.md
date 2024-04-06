@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Commits](https://img.shields.io/github/commit-activity/m/rmaram33/MATLAB_Programming_Techniques)
+
