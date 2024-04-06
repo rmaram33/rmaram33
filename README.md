@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rmaram33)
 
+![yourusername's Activity Graph](https://activity-graph.herokuapp.com/graph?username=rmaram33&theme=xcode)
+
 
